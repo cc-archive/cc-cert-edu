@@ -20,8 +20,8 @@ Learn more about the Creative Commons Certification project at http://certificat
 
 
 * [CORE](https://github.com/creativecommons/cc-cert-map/)
-* Government
-* Education
+* [Government](https://github.com/creativecommons/cc-cert-gov/)
+* [Library](https://github.com/creativecommons/cc-cert-lib/)
 
 
 
