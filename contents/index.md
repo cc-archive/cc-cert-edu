@@ -30,9 +30,9 @@ The Creative Commons education certificate is made up of a six modules broken do
    * Promoting Openness
    * Community Development for Openness
    
-In addition, the certification includes specialized units for Teachers and other ones for Adminstrators
+The fifth module is differs depending on whether you are a Teacher or an AdministratorIn addition, the certification includes specialized units for Teachers and other ones for Adminstrators
    
-5. Education Learning Units for Teachers
+5a. Education Learning Units for Teachers
    * OER / Open Textbooks / Open Courses / MOOCs
    * Finding and Evaluating Resources
    * Remixing and Adapting Resources
@@ -42,7 +42,7 @@ In addition, the certification includes specialized units for Teachers and other
    * Accessibility
    * Institutional Policies / Mapping External Partners / Supporters / Network / Community
 
-6. Education Learning Units for Administrators
+5b. Education Learning Units for Administrators
    * OER / Open Textbooks / Open Courses / MOOCs
    * Knowing Recommended Policies
    * Assessing Cost Savings and Efficacy of OER Implementation
