@@ -1,30 +1,24 @@
 # Certification Delivery Format
 
-![nightskystudent](https://github.com/creativecommons/cc-cert-edu/blob/master/images/nightskystudent.jpg)
+![nightskystudent](https://github.com/creativecommons/cc-cert-edu/blob/master/images/nightskylearning.jpg)
 
-*[Photo](https://unsplash.com/collections/345758/science?photo=rMmibFe4czY) by [Jeremy Thomas](https://unsplash.com/@jeremythomasphoto) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*[Photo](https://unsplash.com/collections/345758/science?photo=rMmibFe4czY) by [Jeremy Thomas](https://unsplash.com/@jeremythomasphoto) has been placed in the Public Domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
 Delivery of formal certificate training is done by Creative Commons and its authorized partners. Authorized partners include institutions and organizations who have gone through a “train-the-trainer” process with Creative Commons. 
 
-Creative Commons uses a “flipped classroom” approach for formal delivery of the CC Librarian Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. 
+Creative Commons uses a “flipped classroom” approach for formal delivery of the CC Educator Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. 
 
-Librarians taking the CC Certificate first engage in online learning to acquire basic knowledge and complete applied learning activities. The librarian certificate is made up of [6 modules with a total of 25-30 online learning units organized sequentially in a learning path](contents.md). Modules and learning units address Creative Commons related topics and the specialized learning associated with using Creative Commons as a librarian. Each learning unit takes roughly 30 minutes to read and watch videos with additional time needed to complete associated learning activities. 
+Educators taking the CC Certificate first engage in online learning to acquire basic knowledge and complete applied learning activities. The educator certificate is made up of [6 modules with a total of 25-30 online learning units organized sequentially in a learning path](contents.md). Modules and learning units address Creative Commons related topics and the specialized learning associated with using Creative Commons as an educator. Each learning unit takes roughly 30 minutes to read and watch videos with additional time needed to complete associated learning activities. 
 
-Librarians will be required to complete all online learning units to qualify for participation in the face to face, facilitated component of delivery.  
+Educators will be required to complete all online learning units to qualify for participation in the facilitated component of delivery.  
 
-Once online learning has been completed Creative Commons facilitators come on site to deliver a 2 day in person facilitated component of delivery. Using the flipped classroom approach the live in person component of delivery focuses on helping participants generate evidence of learning completion, demonstrate mastery by completing a final assignment for each module, and learn from each other through shared learning activities and discussion. (Note: On site facilitated delivery will be scheduled and done for organizations with numerous librarians seeking certification based on request. Creative Commons will also schedule open enrollment facilitated deliveries at various times throughout the year, usually in association with significant library events and convenings. Based on demand, a live facilitated online version of this component of delivery may also be scheduled.)
+Once online learning has been completed Creative Commons facilitators either come on site to deliver a 2 day in person facilitated component of delivery or schedule a facilitated virtual component of delivery. (Note: On site facilitated delivery will be scheduled and done for organizations with numerous educators seeking certification based on request. Creative Commons will also schedule open enrollment facilitated deliveries at various times throughout the year, usually in association with significant education events and convenings.) Using the flipped classroom approach the live or virtually facilitated component of delivery focuses on helping participants generate evidence of learning completion, demonstrate mastery by completing a final assignment for each module, and learn from each other through shared learning activities and discussion. 
 
-Upon successful completion of the online learning and the 2 day facilitated learning activities participating librarians will be invited to assemble and submit evidence of learning to claim their certification. Evidence will be comprised of a personal toolkit, community engagement, applied practice portfolio, and culminating module mastery learning outputs. Submitted evidence will be reviewed by CC certificate facilitators to ensure successful completion of learning outcomes. On confirmation of completion a Creative Commons certificate will be awarded and recipients listed publicly on Creative Commons web site.
+Upon successful completion of the online learning and the 2 day facilitated learning activities participating educators will be invited to assemble and submit evidence of learning to claim their certification. Evidence will be comprised of a personal toolkit, community engagement, applied practice portfolio, and culminating module mastery learning outputs. Submitted evidence will be reviewed by CC certificate facilitators to ensure successful completion of learning outcomes. On confirmation of completion a Creative Commons certificate will be awarded and recipients listed publicly on Creative Commons web site.
 
 
 ## Duration
 Creative Commons recommends budgeting 3-4 days of effort to complete the online learning work in advance of the 2 day live facilitated face-to-face session. All told completion of the certificate will take 5 to 6 days (40-50 hours of effort).
-
-
-
-
-## Duration
-
 
 ## Requirements
 
