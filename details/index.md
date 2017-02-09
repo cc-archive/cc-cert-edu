@@ -1,6 +1,6 @@
 # Certification Delivery Format
 
-![nightskystudent](https://github.com/creativecommons/cc-cert-edu/blob/master/images/nightskylearning.jpg)
+![nightskystudent](https://github.com/creativecommons/cc-cert-edu/blob/master/images/nightskylearning2.jpg)
 
 *[Photo](https://unsplash.com/collections/345758/science?photo=rMmibFe4czY) by [Jeremy Thomas](https://unsplash.com/@jeremythomasphoto) has been placed in the Public Domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
