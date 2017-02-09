@@ -30,7 +30,7 @@ The Creative Commons education certificate is made up of a six modules broken do
    * Promoting Openness
    * Community Development for Openness
    
-5. Teacher Option
+5. Teacher Specialized Learning
    * OER / Open Textbooks / Open Courses / MOOCs
    * Finding and Evaluating Resources
    * Remixing and Adapting Resources
@@ -40,7 +40,7 @@ The Creative Commons education certificate is made up of a six modules broken do
    * Accessibility
    * Institutional Policies / Mapping External Partners / Supporters / Network / Community
 
-5. Education Administrator Option
+6. Administrator Specialized Learning
    * OER / Open Textbooks / Open Courses / MOOCs
    * Knowing Recommended Policies
    * Assessing Cost Savings and Efficacy of OER Implementation
