@@ -11,7 +11,7 @@ Creative Commons has become a key means by which educators find, create, and sha
 
 The CC Educator Certificate aims to ensure all educators have the grounding and digital literacy associated with successfully using Creative Commons for open educational resources, open practices, open policy, and open pedagogy.  
 
-![OERlogo](https://github.com/creativecommons/cc-cert-lib/blob/master/images/OERlogo.png)
+![OERlogo](https://github.com/creativecommons/cc-cert-edu/blob/master/images/OERlogo.png)
 
 *[OER Logo Open Educational Resources](https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png#/media/File:OER_Logo_Open_Educational_Resources.png) by [Markus Büsges](https://commons.wikimedia.org/w/index.php?title=Markus_B%C3%BCsges_(leomaria_design)_f%C3%BCr_Wikimedia_Deutschland_e._V.&action=edit&redlink=1) is licensed [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)*
 
