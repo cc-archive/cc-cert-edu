@@ -1,6 +1,6 @@
 # Creative Commons Educator Certificate Overview
 
-![Learning](https://github.com/creativecommons/cc-cert-edu/blob/master/images/Learning.jpg)
+![Educationstudents](https://github.com/creativecommons/cc-cert-edu/blob/master/images/educationstudents.jpg)
 
 *[Photo](https://unsplash.com/@punttim?photo=NSFG5sJYZgQ) by [Tim Gouw](https://unsplash.com/@punttim) has been placed in the Public Domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
