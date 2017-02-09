@@ -11,9 +11,9 @@ Creative Commons has become a key means by which educators find, create, and sha
 
 The CC Educator Certificate aims to ensure all educators have the grounding and digital literacy associated with successfully using Creative Commons for open educational resources, open practices, open policy, and open pedagogy.  
 
-![House of Knowledge](https://github.com/creativecommons/cc-cert-lib/blob/master/images/HouseofKnowledge.jpg)
+![OERlogo](https://github.com/creativecommons/cc-cert-lib/blob/master/images/OERlogo.png)
 
-*[House of Knowledge](https://flic.kr/p/gwNP1s) by [Adrian Sifre](https://www.flickr.com/photos/adriensifre/) is licensed [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
+*[OER Logo Open Educational Resources](https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png#/media/File:OER_Logo_Open_Educational_Resources.png) by [Markus Büsges](https://commons.wikimedia.org/w/index.php?title=Markus_B%C3%BCsges_(leomaria_design)_f%C3%BCr_Wikimedia_Deutschland_e._V.&action=edit&redlink=1) is licensed [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)*
 
 ## Who is this for?
 
