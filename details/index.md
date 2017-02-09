@@ -8,7 +8,7 @@ Delivery of formal certificate training is done by Creative Commons and its auth
 
 Creative Commons uses a “flipped classroom” approach for formal delivery of the CC Educator Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. 
 
-Educators taking the CC Certificate first engage in online learning to acquire basic knowledge and complete applied learning activities. The educator certificate is made up of [6 modules with a total of 25-30 online learning units organized sequentially in a learning path](contents/index.md). Modules and learning units address Creative Commons related topics and the specialized learning associated with using Creative Commons as an educator. Each learning unit takes roughly 30 minutes to read and watch videos with additional time needed to complete associated learning activities. 
+Educators taking the CC Certificate first engage in online learning to acquire basic knowledge and complete applied learning activities. The educator certificate is made up of [6 modules with a total of 25-30 online learning units organized sequentially in a learning path](https://github.com/creativecommons/cc-cert-edu/blob/master/contents/index.md). Modules and learning units address Creative Commons related topics and the specialized learning associated with using Creative Commons as an educator. Each learning unit takes roughly 30 minutes to read and watch videos with additional time needed to complete associated learning activities. 
 
 Educators will be required to complete all online learning units to qualify for participation in the facilitated component of delivery.  
 
