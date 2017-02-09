@@ -51,4 +51,4 @@ The Creative Commons education certificate is made up of a six modules broken do
    * Providing Training
    * Evaluating OER as Professional Development
    
-   
+   Participants take either module 5 or module 6 depending on their role.
