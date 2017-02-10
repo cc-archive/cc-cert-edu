@@ -5,11 +5,11 @@
 *[Photo](https://unsplash.com/@punttim?photo=NSFG5sJYZgQ) by [Tim Gouw](https://unsplash.com/@punttim) has been placed in the Public Domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
 ## Why Needed?
-Educators have always been knowledge sharers, helping students develop their abilities and engage in the world around them. With the advent of computing and the Internet, education became increasingly digital. Many educators now incorporate the use of digital and web based materials in their courses. Some even teach online. 
+As education enters the digital age it has become increasingly possible to remove barriers and open up access to all. As part of that transformation educators have begun to make extensive use of open educational resources and open practices. Instead of authoring or purchasing proprietary knowledge resources educators have begun to create, share, and use Creative Commons licensed digital resources that provide permissions for reuse, revision, remix, redistribution and retention. Textbooks, videos, images, animations, simulations and other course materials are increasingly digital and open. With the cost of replication of digital naterials being close to zero dollars this generates tremendous cost savings and opens up innovations in teaching and learning.  
 
-Creative Commons has become a key means by which educators find, create, and share course materials in the form of Open Educational Resources (OER). Use of OER has generated new open practices for everything from designing and developing a course to teaching and learning. 
+Creative Commons has become a key means by which educators find, create, and share open course materials in the form of Open Educational Resources (OER). Use of OER has generated new open practices for everything from designing and developing a course to teaching and learning. 
 
-The CC Educator Certificate aims to ensure all educators have the grounding and digital literacy associated with successfully using Creative Commons for open educational resources, open practices, open policy, and open pedagogy.  
+The CC Educator Certificate aims to ensure all educators have the grounding and digital literacy associated with successfully using Creative Commons for open educational resources, open practices, open policy, and open pedagogy. Learning activities generate practical tools and resources to be applied and used in work right away. 
 
 ![OERlogo](https://github.com/creativecommons/cc-cert-edu/blob/master/images/OERlogo.png)
 
