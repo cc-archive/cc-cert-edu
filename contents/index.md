@@ -16,13 +16,12 @@ The Creative Commons education certificate is made up of a six modules broken do
   * [Copyright vs Other Intellectual Property](copyright/other-ip.md)
   * [Global Aspects of Copyright](copyright/global.md)
  
-3. Using Creative Commons Licenses
-  * How Licenses Work with Copyright
-  * Examples of Licenses in Action
-  * Overview of the Licenses
-  * Differences of CC0 and Public Domain Mark
-  * Remixing Differently Licensed Works
-  * Legal Precedence of Creative Commons licenses
+3. [Creative Commons Licenses](licenses/index.md)
+   * How Licenses Work with Copyright
+   * Overview of the Licenses
+   * Examples of Licenses in Action
+   * [Remixing Differently Licensed Works](licenses/remixed.md)
+   * Legal Precedence of Creative Commons Licenses
 
 4. [Sociocultural](sociocultural/index.md)
    * [How the Open Model is Better](sociocultural/open-better.md)
