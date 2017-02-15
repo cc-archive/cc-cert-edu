@@ -1,4 +1,4 @@
-# Certification Delivery Format
+# Educator Certificate Delivery Format
 
 ![nightskystudent](https://github.com/creativecommons/cc-cert-edu/blob/master/images/nightskylearning2.jpg)
 
