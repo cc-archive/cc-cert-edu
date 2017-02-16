@@ -1,9 +1,8 @@
-# CC Education Certification Contents
+# Educator Certificate Contents
 
-The Creative Commons education certificate is made up of a six modules broken down into learning units. 
+The Creative Commons educator certificate is made up of a six modules broken down into learning units. 
 
 These modules and learning units have been organized sequentially in a recommended learning path as follows:
-
 
 1. [The Commons](commons/index.md)
    * [Significance of the Commons](commons/significance.md)
