@@ -32,7 +32,6 @@ On completion of the certificate educators will be able to:
 * provide Creative Commons related training and support services
 * help plan institutional systematic changes towards openness
 
-
 ## How does it work? What will I learn?
 
 Learn more [about the delivery format and process](../details/index.md) or [explore the modules and units](../contents/index.md)
