@@ -29,8 +29,16 @@ These modules and learning units have been organized sequentially in a recommend
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
+   * Building a Culture of Gratitude and Collaboration
+
+5. [Using Creative Commons](using/index.md)
+   * Choosing a License
+   * Finding CC Licensed Content
+   * Legal vs Technical Openness
+   * Giving Attribution
+
    
-5. Teacher Specialized Learning
+6. Teacher Specialized Learning
    * OER / Open Textbooks / Open Courses / MOOCs
    * Finding and Evaluating Resources
    * Remixing and Adapting Resources
@@ -40,7 +48,7 @@ These modules and learning units have been organized sequentially in a recommend
    * Accessibility
    * Institutional Policies / Mapping External Partners / Supporters / Network / Community
 
-6. Administrator Specialized Learning
+7. Administrator Specialized Learning
    * OER / Open Textbooks / Open Courses / MOOCs
    * Knowing Recommended Policies
    * Assessing Cost Savings and Efficacy of OER Implementation
