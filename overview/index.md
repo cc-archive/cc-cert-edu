@@ -13,7 +13,7 @@ The CC Educator Certificate aims to ensure all educators have the grounding and 
 
 ![OERlogo](https://github.com/creativecommons/cc-cert-edu/blob/master/images/OERlogo.png)
 
-*[OER Logo Open Educational Resources](https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png#/media/File:OER_Logo_Open_Educational_Resources.png) by [Markus Büsges](https://commons.wikimedia.org/w/index.php?title=Markus_B%C3%BCsges_(leomaria_design)_f%C3%BCr_Wikimedia_Deutschland_e._V.&action=edit&redlink=1) is licensed [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)*
+*"[OER Logo Open Educational Resources](https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png#/media/File:OER_Logo_Open_Educational_Resources.png)" by [Markus Büsges](https://commons.wikimedia.org/w/index.php?title=Markus_B%C3%BCsges_(leomaria_design)_f%C3%BCr_Wikimedia_Deutschland_e._V.&action=edit&redlink=1) is licensed [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0)*
 
 ## Who is this for?
 
@@ -35,3 +35,12 @@ On completion of the certificate educators will be able to:
 ## How does it work? What will I learn?
 
 Learn more [about the delivery format and process](../details/index.md) or [explore the modules and units](../contents/index.md)
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-edu/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill  Melinda Gates Foundation](http://www.gatesfoundation.org/).*
