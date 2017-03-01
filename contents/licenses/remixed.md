@@ -6,7 +6,7 @@ Understanding the differences between Creative Commons licenses is important, bu
 
 Open content and open educational resources do not have one, universal copyright conditions. If you saw or used any Creative Commons content (or under other free licenses) you probably noticed that many of their conditions rule out the others. So how do mix them to create something that will be open and won’t break the internet (and someone's copyright)?
 
-![Combination of chilies](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/chilies.jpg "Combination of chilies")
+![Combination of chilies](https://github.com/creativecommons/cc-cert-edu/blob/master/images/licenses/chilies.jpg "Combination of chilies")
 
 *[Combination of chilies](https://flickr.com/photos/cityfoodsters/16344463891 "Combination of chilies") by [City Foodsters](https://flickr.com/people/cityfoodsters) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
@@ -43,7 +43,7 @@ https://youtu.be/Hkz4q2yuQU8?t=4m24s
 
 Get to know the [chart with licenses compatibility](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility).
 
-![License Compatibility Chart](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/license-compatibility-chart.jpg "License Compatibility Chart")
+![License Compatibility Chart](https://github.com/creativecommons/cc-cert-edu/blob/master/images/licenses/license-compatibility-chart.jpg "License Compatibility Chart")
 
 *[License Compatibility Chart](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility) by [Creative Commons](https://creativecommons.org/) is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/)*
 
@@ -66,7 +66,7 @@ If you are interested in how Creative Commons license compatibility works with W
    
 Also, try the [OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html) where you have to remix four differently licensed  text, images, music, and video to create a new copyright compliant resource (requires Flash).
 
-![OER Remix Game screenshot](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/oer-remix-game.jpg "OER Remix Game screenshot")
+![OER Remix Game screenshot](https://github.com/creativecommons/cc-cert-edu/blob/master/images/licenses/oer-remix-game.jpg "OER Remix Game screenshot")
 
 *[OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html) by [BYU Independent Study](https://is.byu.edu/) is licensed under [CC BNC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)*
 

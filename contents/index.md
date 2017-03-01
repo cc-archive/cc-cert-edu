@@ -38,10 +38,10 @@ These modules and learning units have been organized sequentially in a recommend
    * Giving Attribution
 
    
-6. Teacher Specialized Learning
+6. [Teacher Specialized Learning](teachers/index.md)
    * OER / Open Textbooks / Open Courses / MOOCs
    * Finding and Evaluating Resources
-   * Remixing and Adapting Resources
+   * Remixing and Adapting Resources](teachers/remixing-oer.md)
    * Creating Resources, Outcomes, Assessments
    * Applying Open Pedagogy
    * Choosing Right License

@@ -7,7 +7,7 @@ Catchy sentence
 Spicy jalapeno bacon ipsum dolor amet shank aute consectetur, enim chuck commodo duis tail sed ut leberkas ribeye beef minim lorem. Esse alcatra pancetta commodo leberkas. Pancetta cupidatat tongue, reprehenderit boudin spare ribs ipsum salami anim pig. Ut excepteur deserunt ut shank. Ham laboris doner ut, filet mignon turducken spare ribs exercitation. Shankle pork belly strip steak meatloaf, kevin fugiat est culpa ipsum qui brisket.
 
 
-![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/module/filename.jpg "Copyright Iain")
+![Copyright Iain](https://github.com/creativecommons/cc-cert-edu/blob/master/images/module/filename.jpg "Copyright Iain")
 
 *[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
