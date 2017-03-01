@@ -68,7 +68,7 @@ For concerns about copyright status of works you want to remix, read those two m
 
 ![Remixing is Tasty](https://github.com/creativecommons/cc-cert-edu/blob/master/images/teachers/remixing-tasty.jpg "Remixing is Tasty")
 
-[Remixing is Tasty](https://flickr.com/photos/wakingtiger/3156791341 "Remixing is Tasty") by [Gideon Burton](https://flickr.com/people/wakingtiger) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
+*[Remixing is Tasty](https://flickr.com/photos/wakingtiger/3156791341 "Remixing is Tasty") by [Gideon Burton](https://flickr.com/people/wakingtiger) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
  
 If you are already feeling copyright savvy or want to use only open resources, all the information on which licence types can be remixed with each other from in educational context you will find in the [Remixing OER unit](http://www.open.edu/openlearnworks/mod/oucontent/view.php?id=82520&section=2 ) from the Open University course on [Becoming an Open Educator](Becoming an open educator)
 
