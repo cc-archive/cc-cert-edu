@@ -3,7 +3,7 @@
 ![CC-EDU](https://github.com/creativecommons/cc-cert-edu/blob/master/images/cc-cert-edu.jpg "Creative Commons Educator Certificate")
 
 * [Overview of the Creative Commons Educator Certificate](overview/index.md) 
-* [Details of the Creative Commons Educator Certificaten](details/index.md) 
+* [Details of the Creative Commons Educator Certificate](details/index.md) 
 * [Educator Certificate Contents](contents/index.md)  
 
 ----
