@@ -20,7 +20,7 @@ These modules and learning units have been organized sequentially in a recommend
 3. [Creative Commons Licenses](licenses/index.md)
    * How Licenses Work with Copyright
    * Overview of the Licenses
-   * Examples of Licenses in Action
+   * [Examples of Licenses in Action](licenses/examples.md)
    * [Remixing Differently Licensed Works](licenses/remixed.md)
    * Legal Precedence of Creative Commons Licenses
 
