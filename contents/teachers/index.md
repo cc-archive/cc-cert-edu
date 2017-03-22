@@ -7,14 +7,14 @@ A better written introduction goes here for the Specialty Units for teachers.
 *[Photo](http://www.pixnio.com/people/teacher-students-ultraviolet-brightness-light-play) by Hagerty Ryan is in the public domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
 
-1. OER / Open Textbooks / Open Courses / MOOCs
-2. Finding and Evaluating Resources
-3. [Remixing and Adapting Resources](remixing-oer.md)
-4. Creating Resources, Outcomes, Assessments
-5. Applying Open Pedagogy
-6. Choosing Right License
-7. Accessibility
-8. Institutional Policies / Mapping External Partners / Supporters / Network / Community
+*  [OER / Open Textbooks / Open Courses / MOOCs](oer-open-textbooks.md)
+*  Finding and Evaluating Resources
+*  [Remixing and Adapting Resources](remixing-oer.md)
+*  Creating Resources, Outcomes, Assessments
+*  Applying Open Pedagogy
+*  Choosing Right License
+*  Accessibility
+*  Institutional Policies / Mapping External Partners / Supporters / Network / Community
 
 On completion of these units the [final summit quest](teacher-summit-quest.md) combines learning from across all  units into one final assignment for the whole module.
 
