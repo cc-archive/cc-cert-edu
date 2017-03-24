@@ -4,62 +4,61 @@ The Creative Commons educator certificate is made up of a six modules broken dow
 
 These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
-1. [The Commons](commons/index.md)
+* [The Commons](commons/index.md)
    * [Significance of the Commons](commons/significance.md)
    * [Physical and Digital Commons](commons/physical-digital.md)
    * [The Commons Opportunity](commons/opportunity.md)
    * [The Creative Commons Organization](commons/creative-commons.md)
    
-2. [Copyright](copyright/index.md)
+* [Copyright](copyright/index.md)
   * [Copyright Basics](copyright/basics.md)
   * [Scope of Public Domain](copyright/public-domain.md)  
   * [Exceptions and Limitations of Copyright](copyright/exceptions-limitations.md)
   * [Copyright vs Other Intellectual Property](copyright/other-ip.md)
   * [Global Aspects of Copyright](copyright/global.md)
  
-3. [Creative Commons Licenses](licenses/index.md)
+* [Creative Commons Licenses](licenses/index.md)
    * How Licenses Work with Copyright
    * Overview of the Licenses
    * [Examples of Licenses in Action](licenses/examples.md)
    * [Remixing Differently Licensed Works](licenses/remixed.md)
    * Legal Precedence of Creative Commons Licenses
 
-4. [Sociocultural](sociocultural/index.md)
+* [Sociocultural](sociocultural/index.md)
    * [How the Open Model is Better](sociocultural/open-better.md)
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
    * Building a Culture of Gratitude and Collaboration
 
-5. [Using Creative Commons](using/index.md)
+* [Using Creative Commons](using/index.md)
    * Choosing a License
    * Finding CC Licensed Content
    * Legal vs Technical Openness
    * Giving Attribution
 
    
-6. [Teacher Specialized Learning](teachers/index.md)
-   * [OER / Open Textbooks / Open Courses / MOOCs](teachers/oer-open-textbooks.md)
+* [Educator Specialized Learning Units](educator/index.md)
+   * [Open Educational Resources](educator/oer-open-textbooks.md)
    * Finding and Evaluating Resources
-   * [Remixing and Adapting Resources](teachers/remixing-oer.md)
+   * [Remixing and Adapting Resources](educator/remixing-oer.md)
+   * Opening up The Institution
    * Creating Resources, Outcomes, Assessments
-   * Applying Open Pedagogy
-   * Choosing Right License
+   * Choosing the Right License
    * Accessibility
-   * Institutional Policies / Mapping External Partners / Supporters / Network / Community
-
-7. Administrator Specialized Learning
-   * OER / Open Textbooks / Open Courses / MOOCs
-   * Knowing Recommended Policies
-   * Assessing Cost Savings and Efficacy of OER Implementation
-   * Understand policies considering Teachers IP
-   * Understand policies considering students IP
-   * Supporting Faculty
-   * Identifying Teachers Needs
-   * Providing Training
-   * Evaluating OER as Professional Development
+   * Applying Open Pedagogy
    
-Completion of the Creative Commons Educator Certificate involves taking all units 1 through 4 plus either unit 5 or unit 6 depending on your role. 
+   
+
+* Administrator Specialized Learning Units
+   * Open Educational Resources
+   * Assessing Cost Savings of OER
+   * Understand School Policies 
+   * Identifying Teacher Needs & Supporting Faculty
+   * Providing Training
+   * OER as Professional Development
+   
+Completion of the Creative Commons Educator Certificate involves taking all units 1 through 4 plus the appropriate specialty learning units
 ----
 
 ![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-edu/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
