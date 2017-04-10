@@ -88,4 +88,4 @@ License details: https://creativecommons.org/licenses/by-sa/4.0/
 *Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 
-![Internet Archive link](https://github.com/creativecommons/cc-cert-edu/blob/master/images/ia16.png) indicates backup available in the [Internet Archive](http://web.archive.org/web/) if primary link unavailable.
+![Internet Archive link](https://github.com/creativecommons/cc-cert-edu/blob/master/images/ia16.png) indicates backup available in the [Internet Archive](http://web.archive.org/web/) if primary link unavailable. If you find broken links or other errors please [report to us as an issue](https://github.com/creativecommons/cc-cert-edu/issues).
