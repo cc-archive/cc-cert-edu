@@ -28,7 +28,7 @@ What impacts have the rising costs and decreased flexibility of educational mate
 
 https://www.youtube.com/watch?v=gJWbVt2Nc-I
 
-The William and Flora Hewlett Foundation defines "[open educational resources](http://www.hewlett.org/strategy/open-educational-resources/)" [![Internet Archive link](https://github.com/creativecommons/cc-cert-edu/blob/master/images/ia.png)](http://web.archive.org/web/20170117191930/http://www.hewlett.org/strategy/open-educational-resources/) (or OER) as follows:
+The William and Flora Hewlett Foundation defines "[open educational resources](http://www.hewlett.org/strategy/open-educational-resources/)" [![Internet Archive link](https://github.com/creativecommons/cc-cert-edu/blob/master/images/ia-icon.png)](http://web.archive.org/web/20170117191930/http://www.hewlett.org/strategy/open-educational-resources/) (or OER) as follows:
 
 >> Open Educational Resources are teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and repurposing by others. OER include full courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools, materials, or techniques used to support access to knowledge.
 
