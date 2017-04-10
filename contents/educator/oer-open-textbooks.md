@@ -1,18 +1,26 @@
 # OER, Open Textbooks, Open Courses, and MOOCs
 
+Does it seem reasonable that education in the age of the internet should be more expensive and less flexible than it was in previous print generations? 
 
 ## Big Question / Why It Matters
+
 Education is more important than ever before. Nothing else can do as much to promote happiness, prosperity, and security for individuals, families, and societies. And while many interesting and useful experiments are occurring outside formal education, the degrees, certificates, and other credentials awarded by formal institutions are still critically important to many people’s quality of life.
+
+![Open Educational Resources: The Education Ecosystem Comes to Life](https://github.com/creativecommons/cc-cert-edu/blob/master/images/teachers/oer-ecosystem.jpg "Open Educational Resources: The Education Ecosystem Comes to Life")
+
+*[Open Educational Resources: The Education Ecosystem Comes to Life](https://flickr.com/photos/opensourceway/4371000818 "Open Educational Resources: The Education Ecosystem Comes to Life") by [opensourceway](https://flickr.com/people/opensourceway) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
 Unfortunately, formal education in the age of the internet is, in some ways, more expensive and less flexible than ever. Publishers of educational materials famously charge outrageous prices for textbooks and other resources. As part of their transition from print to digital, these same companies have largely moved away from a model supporting student ownership of educational resources to a "streaming" model where learners have only transient access to resources. Further, publishers are constantly developing innovative technologies that restrict what students and faculty can do with the resources they access, including inventing novel ways to prohibit printing, prevent cutting and pasting, and restrict the sharing of materials between friends.
 
 ## Learning Outcomes
+
 * Define "open" in the context of open educational resources
 * Differentiate between open educational resources, open textbooks, open courses, and MOOCs
 * Identify the problems with MOOCs relative to open education
 
 ## Personal Reflection / Why it Matters To You
-Does it seem reasonable that education in the age of the internet should be more expensive and less flexible than it was in previous print generations? What impacts have the rising costs and decreased flexibility of educational materials had on you and those you know? What role do you imagine copyright and related laws like the DMCA have played in driving up costs and driving down flexibility for learners and teachers? What role might their be for open licenses to provide relief?
+
+What impacts have the rising costs and decreased flexibility of educational materials had on you and those you know? What role do you imagine copyright and related laws like the DMCA have played in driving up costs and driving down flexibility for learners and teachers? What role might their be for open licenses to provide relief?
 
 ## Acquiring Essential Knowledge
 
@@ -20,17 +28,17 @@ Does it seem reasonable that education in the age of the internet should be more
 
 https://www.youtube.com/watch?v=gJWbVt2Nc-I
 
-The William and Flora Hewlett Foundation defines "[open educational resources](http://www.hewlett.org/strategy/open-educational-resources/)" (or OER) as follows:
+The William and Flora Hewlett Foundation defines "[open educational resources](http://www.hewlett.org/strategy/open-educational-resources/)" [![Internet Archive link](https://github.com/creativecommons/cc-cert-edu/blob/master/images/ia.png)](http://web.archive.org/web/20170117191930/http://www.hewlett.org/strategy/open-educational-resources/) (or OER) as follows:
 
 >> Open Educational Resources are teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and repurposing by others. OER include full courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools, materials, or techniques used to support access to knowledge.
 
 In contrast to traditional educational materials, which are constantly becoming more and more expensive and less and less flexible, open educational resources provide everyone, everywhere with free permission to download, edit, and share them with others. David Wiley provides another popular definition, stating that only educational materials licensed in a manner that provide the public with the [5R permissions](http://opencontent.org/definition/) can be considered open educational resources. The 5Rs include:
 
-    1. Retain - permission to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
-    2. Reuse - permission to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
-    3. Revise - permission to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
-    4. Remix - permission to combine the original or revised content with other material to create something new (e.g., incorporate the content into a mashup)
-    5. Redistribute - permission to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of to a friend)
+1. **Retain** - permission to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
+2. **Reuse** - permission to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+3. **Revise** - permission to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+4. **Remix** - permission to combine the original or revised content with other material to create something new (e.g., incorporate the content into a mashup)
+5. **Redistribute** - permission to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of to a friend)
 
 The easiest way to confirm that an educational resource is an *open* educational resource that provides you with the 5R permissions is to determine that the resource has been licensed under a Creative Commons license that permits the creation of derivative works - CC BY, CC BY SA, CC BY NC, or CC BY NC SA.
 
