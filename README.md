@@ -1,6 +1,6 @@
 # Creative Library Certification
 
-*CC-CERT-EDU v0.1 Feb 6 2017*
+*CC-CERT-EDU v0.2 Jun 23 2017*
 
 This GitHub repository will be the canonical content for structure of the Creative Commons Education certification. 
 
