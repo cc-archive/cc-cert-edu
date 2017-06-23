@@ -1,4 +1,4 @@
-# Unit Title
+# Promoting Openness
 
 A 1-2 sentence catchy teaser, usually as opening to the big question that follows
 
@@ -6,9 +6,9 @@ A 1-2 sentence catchy teaser, usually as opening to the big question that follow
 
 If you are looking for material offered under a Creative Commons license, CC Search is a good starting point. The database model refers to how a database is structured and organized, including database tables and table indexes. When a CC license is applied to a database, what is being licensed? You should also not apply Creative Commons licenses to works that are no longer protected by copyright or are otherwise in the public domain. Many rights holders who are members of a collecting society can waive the right to collect royalties for uses allowed under the license, but only to the extent their societies allow.
 
-![Lawrence Lessig Remix Party](https://github.com/creativecommons/cc-cert-edu/blob/master/images/teachers/remix-party.jpg "Lawrence Lessig Remix Party")
+![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/module/filename.jpg "Copyright Iain")
 
-*[Lawrence Lessig Remix Party](https://flickr.com/photos/josek/2985192607 "Lawrence Lessig Remix Party") by [José Carlos Cortizo Pérez](https://flickr.com/people/josek) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
 
 Additionally, when you are using a work that is an adaptation of one or more pre-existing works, you may need to give credit to the creator(s) of the pre-existing work(s), in addition to giving credit to the creator of the adaptation. If you are unsure, you should either contact the rights holder for clarification, or search for works that permit commercial uses. All licenses after version 1.0 also allow you to license your contributions under a later version of the same license, and some also allow ported licenses. Some examples of collecting societies include ASCAP and BMI (United States), BUMA/STEMRA (Netherlands), PRS (United Kingdom), and APRA (Australia). You may apply a 4.0 license to material subject to any of those rights, whether or not the material is also subject to copyright.
@@ -67,7 +67,11 @@ Post a story about how you benefited from someone who chose to share their creat
 
 ### Applied Practice
 
-Complete one of the  [other quests for this unit](https://certificates.creativecommons.org/quests/cats/remixing/)
+Complete the following suggested activity in the Quest Bank:
+
+* [Quest Title](http://certificates.creativecommons.org/quest-title)
+
+Or choose from [other quests for this unit](https://certificates.creativecommons.org/quests/cats/remixing/)
 
 ----
 
@@ -80,13 +84,12 @@ Except where otherwise noted, this content is published under a [CC BY license](
 
 Recommended attribution: 
 
-> "TITLE" by Creative Commons is licensed under CC BY 4.0. Available at    
-> https://github.com/creativecommons/cc-cert-edu/blob/master/template.md
+> "Promoting Openness" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-edu/blob/master/contents/sociocultural/promoting-open.md
 
 
 *Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 These certificates are part of the commons; if you find broken links or any other errors  [you can help by reporting them as an issue](https://github.com/creativecommons/cc-cert-edu/issues).
-
 
 

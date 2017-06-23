@@ -1,4 +1,4 @@
-# Unit Title
+# Building a Culture of Gratitude and Collaboration
 
 A 1-2 sentence catchy teaser, usually as opening to the big question that follows
 
@@ -6,9 +6,9 @@ A 1-2 sentence catchy teaser, usually as opening to the big question that follow
 
 If you are looking for material offered under a Creative Commons license, CC Search is a good starting point. The database model refers to how a database is structured and organized, including database tables and table indexes. When a CC license is applied to a database, what is being licensed? You should also not apply Creative Commons licenses to works that are no longer protected by copyright or are otherwise in the public domain. Many rights holders who are members of a collecting society can waive the right to collect royalties for uses allowed under the license, but only to the extent their societies allow.
 
-![Lawrence Lessig Remix Party](https://github.com/creativecommons/cc-cert-edu/blob/master/images/teachers/remix-party.jpg "Lawrence Lessig Remix Party")
+![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg "Copyright Iain")
 
-*[Lawrence Lessig Remix Party](https://flickr.com/photos/josek/2985192607 "Lawrence Lessig Remix Party") by [José Carlos Cortizo Pérez](https://flickr.com/people/josek) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
 
 Additionally, when you are using a work that is an adaptation of one or more pre-existing works, you may need to give credit to the creator(s) of the pre-existing work(s), in addition to giving credit to the creator of the adaptation. If you are unsure, you should either contact the rights holder for clarification, or search for works that permit commercial uses. All licenses after version 1.0 also allow you to license your contributions under a later version of the same license, and some also allow ported licenses. Some examples of collecting societies include ASCAP and BMI (United States), BUMA/STEMRA (Netherlands), PRS (United Kingdom), and APRA (Australia). You may apply a 4.0 license to material subject to any of those rights, whether or not the material is also subject to copyright.
@@ -29,8 +29,13 @@ Be sure to confirm that the material you want to use is actually under a CC lice
   
 This compatibility mechanism is designed for situations in which content is integrated into software code in a way that makes it difficult or impossible to distinguish the two. There are special considerations required before using this compatibility mechanism. Licensors are not required to use the CC license chooser or provide any information about themselves or their material when applying a CC license to their material. Whether and to what extent these rights exist, and if so, how they are labeled, varies depending on the jurisdiction. On the internet, even the most basic activities involve making copies of copyrighted content.
 
-## Acquiring Essential Knowledge 
 
+##### Discuss It
+
+*A callout for a social prompt. It can be moved anywhere. Creators may also apply Creative Commons licenses to material they create that are adapted from public domain works, or to remixed material, databases, or collections that include work in the public domain.*
+
+
+## Acquiring Essential Knowledge 
 
 
 ### Our tools are free, and our reach is wide. 
@@ -45,6 +50,11 @@ That said, Creative Commons recognizes the need for change in copyright law, and
 Creators in these jurisdictions who belong to collecting societies may not be able to license their material under CC licenses because the collecting societies own the necessary rights, not the creators.
 
 Central to our licenses is the grant of a standard set of permissions in advance, without requiring users to ask for permission or seek clarification before using the work. There are currently no ports of 4.0, and it is planned that few, if any, will be created. You do not need to register with Creative Commons to apply a CC license to your material; it is legally valid as soon as you apply it to any material you have the legal right to license. How do I apply a Creative Commons license to my material?
+
+
+##### For Your Personal Learning Toolkit
+*Callout to add something. Make it good. It's helpful to have some links to make these distinctions clear; see if there are more references from the Wikipedia pages with adding to your toolkit. Or you may want to find examples of Common-pool resources and Public goods that would help explain these to someone else.*
+
 
 ### While this result is the same across all CC version 3.0 licenses, the reason for this outcome varies. 
 
@@ -65,9 +75,25 @@ Select two or three resources directly relevant to your personal or work-related
 ### Community - Collaboration, Appreciation, Recognition, Gratitude
 Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.
 
+
+##### Discuss It
+
+*Another callout for a social prompt. CC provides tools to make it easier for creators and owners to say which rights they reserve and permissions they grant.  Is Creative Commons against copyright? In those situations, compliance with the license conditions is not required unless the database contents are themselves restricted by copyright.*
+
+
 ### Applied Practice
 
-Complete one of the  [other quests for this unit](https://certificates.creativecommons.org/quests/cats/remixing/)
+Complete one of the [quests for this unit](https://certificates.creativecommons.org/quests/cats/remixing/) such as 
+
+
+## Closing the Loop
+
+Generally, a modification rises to the level of an adaptation under copyright law when the modified work is based on the prior work but manifests sufficient new creativity to be copyrightable, such as a translation of a novel from one language to another, or the creation of a screenplay based on a novel. If your use is not one that requires permission under the license, you may conduct text and data mining activity without regard to the above considerations. the minute you put pen to paper, take a photo, or hit the 'save' button on your computer).
+
+
+The first question to ask is whether doing so constitutes an adaptation. CC has a brief guide to interpretation of the NC license that goes into more detail about the meaning of the NC license and some key points to pay attention to. 
+
+Because there is no single 'Creative Commons license,' it is important to identify which of the six licenses you are applying to your material, which of the six licenses has been applied to material that you intend to use, and in both cases the specific version. Embedding machine-readable metadata in the code of the license indicator or code of the licensed page.
 
 ----
 
@@ -76,17 +102,6 @@ Licensed under a [Creative Commons Attribution 4.0 International License (CC BY)
 
 Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit and provide a link to the license.
 
-
-
-Recommended attribution: 
-
-> "TITLE" by Creative Commons is licensed under CC BY 4.0. Available at    
-> https://github.com/creativecommons/cc-cert-edu/blob/master/template.md
-
-
 *Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 These certificates are part of the commons; if you find broken links or any other errors  [you can help by reporting them as an issue](https://github.com/creativecommons/cc-cert-edu/issues).
-
-
-

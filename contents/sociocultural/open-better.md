@@ -4,7 +4,7 @@ How do you convince the people who you work with to openly share their work when
 
 ![DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://github.com/creativecommons/cc-cert-core/blob/master/images/sociocultural/dna-origami-lg.jpg "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")
 
-[DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://flickr.com/photos/dullhunk/4422952742 "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami") by [dullhunk](https://flickr.com/people/dullhunk) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)
+*"[DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://flickr.com/photos/dullhunk/4422952742 "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")" by [dullhunk](https://flickr.com/people/dullhunk) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
 
 ## The Big Question
@@ -35,10 +35,10 @@ Then take into account the information you do have access to freely is actually 
 
 ![Cover image from The Power of Open](https://github.com/creativecommons/cc-cert-core/blob/master/images/sociocultural/power-open.jpg "Cover image from The Power of Open")
 
-[Cover image from The Power of Open PDF](http://thepowerofopen.org/ "The Power of Open") by [Creative Commons](https://creativecommons.org) is licensed under [CC BY](http://creativecommons.org/licenses/by/3.0/)
+*"[Cover image from The Power of Open PDF](http://thepowerofopen.org/ "The Power of Open")" by [Creative Commons](https://creativecommons.org) is licensed under [CC BY](http://creativecommons.org/licenses/by/3.0/)*
 
 
-Published in 2011 by Creative Commons and available in 9 languages, [The Power of Open](http://thepowerofopen.org/) provides case studies of success in open practices by not only artists, but news providers, scientists, publishers, museums, and more. The [Open Knowledge Foundation](https://okfn.org/) advocates for openness and the societal gains of sharing knowledge.
+Published in 2011 by Creative Commons and available in 9 languages, [The Power of Open](http://thepowerofopen.org/) provides case studies of success in open practices by not only artists, but also news providers, scientists, publishers, museums, and more. The [Open Knowledge Foundation](https://okfn.org/) advocates for openness and the societal gains of sharing knowledge.
 
 Don Tapscott’s [TED Talk Four Principles for the Open World](https://www.ted.com/talks/don_tapscott_four_principles_for_the_open_world_1) outlines how collaboration, transparency, sharing, and empowerment can make a world not only better for society, but also business. The Open Data Initiative offers [How to Make a Business Case for Open Data](https://theodi.org/guides/how-make-business-case-open-data). See also the [points outlined in Project Open](https://project-open-data.cio.gov/business-case/).
 
@@ -83,14 +83,18 @@ Complete one of the following activities in the Quest Bank. Now share it in pers
 ![Creative Commons Attribution 4.0 International License](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-88x31.png "CC BY")
 Licensed under a [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. License details: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Except where otherwise noted, this content is published under a [CC BY license](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit and provide a link to the license.
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill ![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-edu/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Recommended attribution: 
 
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
+> "How the Open Model is Better" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-edu/blob/master/contents/socicultural/open-better.md
 
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+*Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 These certificates are part of the commons; if you find broken links or any other errors  [you can help by reporting them as an issue](https://github.com/creativecommons/cc-cert-edu/issues).
+
+
+
+
